@@ -1,5 +1,6 @@
 #include <stdio.h>
 main()
+edytowałem to w branczu ktoryms i nie panietam ktorym,m a potem to polacze i zobnacze co sie stanie bo tak! 
 {
         double liczba1,liczba2,wynik,wynik21;
         printf("\n Podaj pierwsza liczbe:\n ");
