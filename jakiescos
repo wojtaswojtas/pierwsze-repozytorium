@@ -2,7 +2,7 @@
 #include <conio.h>
 main()
 {
-        double liczba1,liczba2,wynik;
+        double liczba1,liczba2,wynik,wynik2;
         printf("\n Podaj pierwsza liczbe:\n ");
         scanf("%lf",&liczba1);
         printf("\n Podaj druga liczbe:\n ");
