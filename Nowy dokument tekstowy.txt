@@ -1,0 +1,3 @@
+przypadku to oczywiœcie nic powa¿nego, ale warto wyarabiaæ sobie dobre nawyki.
+Sta³e powinno siê opatrywaæ dodatkowym s³owem kluczowym const. To równie¿ niby nic wielkiego, ale stosowanie const poprawia w³aœciwoœæ "samo-komentowania siê" kodu. Gdy patrzymy na du¿y objêtoœciowo kod, wy³apanie s³ów const pomaga w "uchwyceniu" koncepcji dzia³ania programu.
+Linijka 14 jest kwintesencj¹ ca³ego przyk³adu. WyraŸnie widaæ, ¿e autor chcia³ siê pochwaliæ obiektowoœci¹. Programiœci czêsto lubi¹ siê chwaliæ ró¿nymi wysublimowanymi konstrukcjami. Tylko, ¿e na d³u¿sz¹ metê to równie¿ nie jest dobra praktyka. Kod nale¿y pisaæ w sposób 
