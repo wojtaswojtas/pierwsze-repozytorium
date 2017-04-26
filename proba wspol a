@@ -3,5 +3,6 @@
 int main()
 {
 printf ("HELLO");
+printf ("nara")
 return 0;
 }
